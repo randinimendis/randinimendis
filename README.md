@@ -1,8 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Randini Mendis</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="![Purple Gradient Digital Marketing LinkedIn Banner (2)](https://github.com/randinimendis/randinimendis/assets/99355199/4441d63b-808e-4c14-bccc-f01c82855878)
-">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randinimendis&label=Profile%20views&color=0e75b6&style=flat" alt="randinimendis" /> </p>
 
