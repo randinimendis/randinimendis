@@ -1,4 +1,4 @@
-![Purple Gradient Digital Marketing LinkedIn Banner (2)](https://github.com/randinimendis/randinimendis/assets/99355199/8e66c38d-4826-4a5b-b785-0bcdab280bc4)![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![Purple Gradient Digital Marketing LinkedIn Banner (2)](https://github.com/randinimendis/randinimendis/assets/99355199/8e66c38d-4826-4a5b-b785-0bcdab280bc4)![MasterHead]
 <h1 align="center">Hi 👋, I'm Randini Mendis</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
