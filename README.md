@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
-- 💬 Ask me about ** MEARN STACK,PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL**
+- 💬 Ask me about  MEARN STACK,HTML,CSS,JAVA SCERIPTS,SQL
 
 - ⚡ Fun fact **I am Funny**
 
