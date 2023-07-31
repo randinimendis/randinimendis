@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randinimendis&label=Profile%20views&color=0e75b6&style=flat" alt="randinimendis" /> </p>
 
-- 🔭 I’m currently working on **Next js , MEARN STACK**
+- 🔭 I’m currently working on **Next js**
 
 - 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
-- 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL**
+- 💬 Ask me about ** MEARN STACK,PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL**
 
 - ⚡ Fun fact **I am Funny**
 
