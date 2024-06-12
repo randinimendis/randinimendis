@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Next js**
 
-- 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
+- 🌱 I’m currently learning **AI & ML,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
 - 💬 Ask me about  MEARN STACK,HTML,CSS,JAVA SCERIPTS,SQL
 
