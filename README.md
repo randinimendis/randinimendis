@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **AI & ML,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka, SLIIT **
+- 🌱 I’m currently learning **AI & ML,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka, SLIIT**
 
 - 💬 Ask me about  MEARN STACK,HTML,CSS,JAVA SCERIPTS,SQL
 
