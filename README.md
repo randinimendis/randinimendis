@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randinimendis&label=Profile%20views&color=0e75b6&style=flat" alt="randinimendis" /> </p>
 
-- 🔭 I’m currently working on **Zenzebz-technologies**
+-🔭 I'm currently learning **SLIIT**
 
 
 
