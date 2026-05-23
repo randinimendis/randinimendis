@@ -1,17 +1,17 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/5311e8b4-6fd7-491a-9d3e-abc73e10650c" />
 <h1 align="center">Hi 👋, I'm Randini Mendis</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer software quality assurance engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randinimendis&label=Profile%20views&color=0e75b6&style=flat" alt="randinimendis" /> </p>
 
--🔭 I'm currently learning **SLIIT**
+-🔭 I'm graduated from **SLIIT**
 
 
 
-- 🌱 I’m currently learning **AI & ML,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka, SLIIT**
+- 🌱 I’m currently learning **AI & ML,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
-- 💬 Ask me about  MEARN STACK,HTML,CSS,JAVA SCERIPTS,SQL
+- 💬 Ask me about  MEARN STACK,HTML,CSS,JAVA SCERIPTS,SQL,Cypress, JIRA, Postman, 	GIT/Git Hub, Agile, SDLC / STLC
 
 - ⚡ Fun fact **I am Funny**
 
